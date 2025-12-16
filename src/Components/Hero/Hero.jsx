@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import {HiLocationMarker} from "react-icons/hi";
-import "./hero.css";
+import "./Hero.css";
 import CountUp from "react-countup";
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
