@@ -76,7 +76,7 @@ export default function Hero() {
         {/* right side */}
         <div ref={image} className="hero-right flexCenter">
           <div className="image-container">
-            <img src="./hero-image.png" alt="" />
+            <img src=".https://real-estate-web.pages.dev/hero-image.png" alt="" />
           </div>
         </div>
       </div>
