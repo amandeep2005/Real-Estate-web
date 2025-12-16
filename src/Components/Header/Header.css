@@ -1,5 +1,9 @@
 .h-wrapper{
+    position: sticky;
+  top: 0;
+  background-color: var(--black);
     color: white;
+    z-index: 99;
 }
 
 .h-container{
